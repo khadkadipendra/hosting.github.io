@@ -394,3 +394,10 @@ nav .fa-solid{
 .lower-footr .fa-regular{
     color: purple;
 }
+.footer-col img{
+    height: 160px;
+    margin-left: 20px;
+    margin-right: 200px;
+    border-radius: 200%;
+} 
+
